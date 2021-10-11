@@ -3,9 +3,13 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        cooking: 3
+        recipe: 3
+        graph generation: 3
+        natural language understanding: 3
+        graph neural network: 1
+        generation: 1
+
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
